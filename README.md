@@ -1,5 +1,6 @@
 # AsksinPP_HM-LC-DIM1PWM-CV
 12V PWM-Dimmer auf AsksinPP-Basis
+!(/images/HM-LC-DIM1PWM-CV_3D_640x360.jpg)
 
 eine modifizierte Version des 7-24V-Dimmers von psi (Danke dafür :-)).
 ![Treiberschaltung mit MIC4422](/images/treiberschaltung.png)

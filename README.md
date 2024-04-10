@@ -14,3 +14,9 @@ Bei ihm beträgt der Leistungsverlust bei 6A: 6x6x0,04=1.5W. Das ist immer noch 
 
 Vorsicht:
 Die höchste, zulässige Eingangsspannung ist 18V. 24V-LED-Bänder scheiden damit leider aus.
+
+Gehäuse:
+
+Sketch: ISP
+
+

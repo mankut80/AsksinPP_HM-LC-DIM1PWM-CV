@@ -25,19 +25,19 @@ Im Sketch müssen die üblichen Anpassungen der Serial usw. vorgenommen werden. 
 ### Bauteilliste
 | Pos | Ref | Wert |
 |-----|-----|------|
-| 1 | C3, C4 | 47nF / 400V , RM 7.5, 10.3x7.5mm |
+| 1 | C3, C4 | 100nF / Keramikkondensator, RM2.5 |
 | 2 | C1 | 100µF / 25V D=6mm |
-| 3	|	C2 | 100n	C_Rect_L4.6mm_W3.0mm_P2.50mm_MKS02_FKP02 |
-| 4	|	R1 | 330R |
-| 5	|	D1 | LED	3mm Farbe egal |
-| 6 |	U1 | L78L05 TO92 |
-| 7	|	U2 | CC1101 |
+| 3	|	C2 | 100nF	C_Rect_L4.6mm_W3.0mm_P2.50mm_MKS02_FKP02 |
+| 4	|	R1 | 330R, 0207 |
+| 5	|	D1 | LED	3mm, Farbe egal |
+| 6 |	U1 | L78L05, TO92 |
+| 7	|	U2 | CC1101-Modul |
 | 8 | U3 | MIC4422YM	SOIC-8 |
-| 9 |	X1, X2 | Schraubklemme 2pol P5.00mm	|
+| 9 |	X1, X2 | Schraubklemme 2pol P5.00mm oder 5.08mm	|
 | 10 | SW1 | Taster 6x6mm H5mm |
 | 11 | SW2 | Taster 6x6mmm H5mm |
-| 12 | A1	| Pro_Mini |
-| 13 | Q1	| IRF3708	TO-220 |
+| 12 | A1	| Arduino Pro_Mini |
+| 13 | Q1	| IRF3708 oder anderer N-Kanal MOSFET, TO-220 |
 | 14 | J3	| AVR-ISP-6	Molex_PicoBlade_53047-0610_1x06_P1.25mm_Vertical |
 
 Position 14 kann bedenkenlos weggelassen werden wenn man nicht per ISP programmieren möchte
